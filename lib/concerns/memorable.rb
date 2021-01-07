@@ -4,7 +4,7 @@ module memorable
     self.all.clear
   end
 
-  def sefl.count
+  def count
     self.all.count
   end
 
